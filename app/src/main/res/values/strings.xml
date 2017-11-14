@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Learn Geo Tagging</string>
+    <string name="access_token">pk.eyJ1IjoidGFtYW1pIiwiYSI6ImNqOXR5cmh2bzRpcmgycXBneWljM2xpemoifQ.hK7-n2bBP9qZQQNJ39xfIw</string>
+    <string name="tap_on_map_instruction">Coba Klik ya</string>
+    <string name="title_activity_my_map">MyMapActivity</string>
+    <string name="ambil_gambar">Ambil</string>
 </resources>
